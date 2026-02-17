@@ -1,16 +1,17 @@
-## Hi there 👋
+🏦 Sistema Bancario (Fullstack)
+Aplicación fullstack desarrollada en equipo con autenticación JWT, API REST y CRUD completo.
 
-<!--
-**subjulian/subjulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend: Python · FastAPI · PostgreSQL · JWT → ver repo
+Frontend: Angular → ver repo
 
-Here are some ideas to get you started:
+🏠 Calculadora de Hipoteca
+Aplicación web para calcular cuotas mensuales e intereses de créditos hipotecarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías: HTML · CSS · JavaScript · React → ver repo
+
+
+📫 Contacto
+
+🌐 Portafolio: subjulian.github.io
+✉️ Email: subjulianmo941@gmail.com
+📍 Medellín, Antioquia
